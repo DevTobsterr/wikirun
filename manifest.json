@@ -1,0 +1,17 @@
+{
+    "name": "Wiki Run",
+    "version": "1.0.0",
+    "description": "Offical Wiki Run for Wikipedia Race's",
+    "manifest_version": 3,
+    
+    // "background": {
+    //   "service_worker": "background.js"
+    // },
+    // "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "/images/logo.png"
+
+      }
+    }
+  
